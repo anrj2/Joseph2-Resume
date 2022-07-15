@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Abby Joseph's Resume
 ---
-# Abby Nadie Joseph
+# Abby Joseph
 
 <div id="webaddress">
 <a href="jos19004@byui.edu">jos19004@byui.edu</a>
