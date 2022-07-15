@@ -19,8 +19,11 @@ __Brigham Young University - Idaho__, Rexburg, Idaho
 
 - Certificate in Machine Learning
 - Certificate in Data Science
+- Society of Women Engineers | SWE BYU-I
+- Society of Artificial Intelligence | SAi BYU-I
 - GPA: 3.5
 
+## Skills
 
 ## Work Experience
 
