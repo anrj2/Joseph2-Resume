@@ -23,7 +23,20 @@ __Brigham Young University - Idaho__, Rexburg, Idaho
 - Society of Artificial Intelligence | SAi BYU-I
 - GPA: 3.5
 
-## Skills
+## Technical Skills
+`Advanced`
+- C++
+- Java
+- Python
+- JavaScript
+- SQL
+
+`Competent`
+- HTML
+- CSS
+- Microsoft Office
+- Tableau
+
 
 ## Work Experience
 
