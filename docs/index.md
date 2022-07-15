@@ -30,6 +30,7 @@ __Brigham Young University - Idaho__, Rexburg, Idaho
 - Python
 - JavaScript
 - SQL
+- C
 
 `Competent`
 - HTML
