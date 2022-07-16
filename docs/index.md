@@ -73,6 +73,6 @@ __French Lab Tutor__, BYU-Idaho
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2022 -->
 
 
